@@ -1,0 +1,17 @@
+
+
+
+*
+!/**/
+!*.*
+
+*.out
+
+/Day4/cmake-build-debug/
+/Day5/cmake-build-debug/
+/Day6/cmake-build-debug/
+/Day7/cmake-build-debug/
+/Day8/cmake-build-debug/
+/Day9/cmake-build-debug/
+/Day10/cmake-build-debug/
+/Day11/cmake-build-debug/
